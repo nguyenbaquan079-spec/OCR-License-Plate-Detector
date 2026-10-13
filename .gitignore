@@ -1,0 +1,32 @@
+# Dependencies
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Database output (keep folder, ignore contents)
+database/*.jpg
+database/*.csv
+
+# EasyOCR model cache
+~/.EasyOCR/
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Test output
+result.jpg
