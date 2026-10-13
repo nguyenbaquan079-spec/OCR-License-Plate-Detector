@@ -5,7 +5,7 @@
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)
 ![OpenCV](https://img.shields.io/badge/OpenCV-4.x-green?logo=opencv)
 ![EasyOCR](https://img.shields.io/badge/EasyOCR-1.7-orange)
-![License](https://img.shields.io/badge/License-MIT-yellow)
+![License](https://img.shields.io/badge/License-UET-yellow)
 
 ## ✨ Tính năng
 
@@ -81,4 +81,5 @@ Chỉnh sửa các hằng số trong `license_plate_detector.py`:
 
 ## 📝 License
 
-MIT License — Sử dụng tự do cho mục đích học tập và nghiên cứu.
+UET License — Đồ án sinh viên Trường Đại học Công nghệ (UET), Đại học Quốc gia Hà Nội (VNU).
+
